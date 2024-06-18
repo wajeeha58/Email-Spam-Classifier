@@ -1,7 +1,5 @@
 # Email-Spam-Classifier
 
-# Email Spam Classifier Project
-
 # Data Collection and Preprocessing:
 
 Collected and cleaned a dataset of emails.
